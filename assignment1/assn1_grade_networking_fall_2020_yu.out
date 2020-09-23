@@ -1,0 +1,12 @@
+Checking repository for liayu/networking_fall_2020_yu
+Directory exists (git clone success)!
+Git pull success!
+assignment1 directory exists!
+make: `assignment1.bin' is up to date.
+Make successful
+1c1
+< Hello, World!
+---
+> Hello World!
+Output of file incorrect
+Score 6 out of a possible 7
