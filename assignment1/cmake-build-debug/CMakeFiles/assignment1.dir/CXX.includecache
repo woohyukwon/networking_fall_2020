@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/woohyukwon/DU Courses/COMP-4621 netwoking/networking_fall_2020_yu/assignment1/main.cpp
+iostream
+-
+
